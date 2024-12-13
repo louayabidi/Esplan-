@@ -1,0 +1,13 @@
+
+  .table thead th {
+    background-color: #f8f9fa;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  button {
+    margin: 0 2px; /* Spacing between buttons */
+  }
+  
